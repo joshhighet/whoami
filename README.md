@@ -1,2 +1,3 @@
 # joshhighet.com
  
+![push2prod - cloudflare workers](https://github.com/joshhighet/joshhighet.com/workflows/push2prod%20-%20cloudflare%20workers/badge.svg)
