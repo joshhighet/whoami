@@ -1,0 +1,10 @@
+name = "josh"
+type = "webpack"
+account_id = "924f8e8f4880ae35f4a4428bba63d526"
+workers_dev = false
+route = "joshhighet.com/*"
+zone_id = "60794d6e5924e053145c7ffcda007449"
+
+[site]
+bucket = "public"
+entry-point = "josh"
