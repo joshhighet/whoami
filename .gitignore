@@ -2,9 +2,7 @@ ssh/*
 *.DS_Store
 public/*.png
 public/*.ico
-public/certs/*
 public/fonts/*
-static/certs/*
 public/pretty/*
 public/images/*
 public/favicon/*
