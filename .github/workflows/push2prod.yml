@@ -21,7 +21,10 @@ jobs:
         run: sudo npm i @cloudflare/wrangler -g
 
       - name: build
-        run: hugo
-
+        run: hugo 
+      
+      - name: get diff
+        run: git status
+        
       - name: push to workers!
         run: CF_EMAIL=${{ secrets.CF_EMAIL }} CF_API_TOKEN=${{ secrets.CF_API_TOKEN }} wrangler publish
