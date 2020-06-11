@@ -1,4 +1,0 @@
-Contact: joshhighet@protonmail.com
-Encryption: https://joshhighet.com/pgp
-Preferred-Languages: en
-Canonical: https://joshhighet.com/.well-known/security.txt
