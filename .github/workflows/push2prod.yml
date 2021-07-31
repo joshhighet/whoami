@@ -16,6 +16,9 @@ jobs:
 
       - name: get hugo
         run: sudo snap install hugo
+        
+      - name: get packs
+        run: sudo apt-get install -y nodejs npm
 
       - name: get wrangler
         run: sudo npm i @cloudflare/wrangler -g
