@@ -17,8 +17,11 @@ jobs:
       - name: get hugo
         run: sudo snap install hugo
         
+      - name: get yarn
+        run: npm install -g yarn
+        
       - name: get wrangler
-        run: sudo npm install @cloudflare/wrangler -g --unsafe-perm=true --allow-root
+        run: yarn global add @cloudflare/wrangler
 
       - name: build
         run: hugo 
