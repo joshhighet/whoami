@@ -1,3 +1,3 @@
 # whoami.joshhighet.com
  
-![push2prod - cloudflare workers](https://github.com/joshhighet/whoami/workflows/push2prod%20-%20cloudflare%20workers/badge.svg)
+[![cloudflare workers build](https://github.com/joshhighet/whoami/actions/workflows/vf-wrangler-workers.yml/badge.svg)](https://github.com/joshhighet/whoami/actions/workflows/cf-wrangler-workers.yml)
