@@ -1,11 +1,3 @@
-ssh/*
 *.DS_Store
-public/*.png
-public/*.ico
-public/fonts/*
-public/pretty/*
-public/images/*
-public/favicon/*
-public/webfonts/*
 public/categories/*
-safari-pinned-tab.svg
+resources/_gen/*
