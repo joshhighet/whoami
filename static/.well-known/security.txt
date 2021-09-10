@@ -1,4 +1,5 @@
-Contact: joshhighet@protonmail.com
+Contact: mailto:secpol@joshhighet.com
+Expires: 2023-12-31T23:00:00.000Z
 Encryption: https://joshhighet.com/pgp
 Preferred-Languages: en
 Canonical: https://joshhighet.com/.well-known/security.txt

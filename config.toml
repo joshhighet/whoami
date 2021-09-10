@@ -1,4 +1,4 @@
-baseURL = "https://joshhighet.com/"
+baseURL = "https://whoami.joshhighet.com/"
 buildDrafts = false
 buildFuture = false
 buildExpired = false
@@ -21,7 +21,7 @@ title = "josh!"
 
 [params]
   author = "Josh Highet"
-  email = "hi@joshhighet.com"
+  email = "josh@joshhighet.com"
   description = "josh!"
   bio = ""
   avatar = "img/avatar.jpg"

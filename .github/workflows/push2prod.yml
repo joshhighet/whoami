@@ -1,9 +1,9 @@
-name: push2prod - cloudflare workers
+name: cloudflare workers build
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
