@@ -10,13 +10,7 @@ languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
 title = "josh!"
-
-[blackfriday]
-  extensions = ["hardLineBreak"]
-
-[permalinks]
-  fixed = ":title/"
-  posts = "posts/:slug/"
+_merge = "none"
 
 [params]
   author = "Josh Highet"
